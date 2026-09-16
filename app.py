@@ -56,7 +56,7 @@ def render_dot_matrix(dan, num):
     return fig
 
 # 메인 타이틀
-st.title("🔢 인터랙티브 구구단 탐구소")
+st.title("🔢 인터랙티브 구구단 탐험가")
 st.caption("수학적 시각화와 퀴즈를 통해 구구단의 원리를 완벽히 이해해 보세요.")
 
 # 탭 구성
